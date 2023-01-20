@@ -1,0 +1,17 @@
+{
+  "name": "chature",
+  "version": "1.0.0",
+  "description": "A Discord customer service/support bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TwoBrake",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
