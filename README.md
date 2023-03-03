@@ -5,7 +5,4 @@ Chature is a simple open source Discord ticketing bot. You can use it for your s
 
 # Setup
 
-1. Clone the repository into your folder.
-2. Edit `config.json`.
-3. Run the `deploy-commands.js` file to deploy slash commands.
-4. Run the `index.js` file to start the bot.
+https://docs.twobrake.xyz/s/chature
