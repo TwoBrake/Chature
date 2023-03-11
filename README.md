@@ -5,4 +5,4 @@ Chature is a simple open source Discord ticketing bot. You can use it for your s
 
 # Setup
 
-[Installation Instructions](https://docs.twobrake.xyz/guides/chature-setup.html)
+[Installation Instructions](https://docs.twobrake.xyz/chature-setup.html)
